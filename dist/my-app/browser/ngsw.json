@@ -1,0 +1,131 @@
+{
+  "configVersion": 1,
+  "timestamp": 1760933038568,
+  "index": "/pisci-web/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/pisci-web/chunk-2447FUFB.js",
+        "/pisci-web/chunk-37YCEVLF.js",
+        "/pisci-web/chunk-DL74YZTB.js",
+        "/pisci-web/chunk-EBJ5BXEB.js",
+        "/pisci-web/chunk-EQDQRRRY.js",
+        "/pisci-web/chunk-FK6H3RFT.js",
+        "/pisci-web/chunk-FL6FNIAD.js",
+        "/pisci-web/chunk-FQFET22Z.js",
+        "/pisci-web/chunk-GBA5LKQX.js",
+        "/pisci-web/chunk-HIN7CXQO.js",
+        "/pisci-web/chunk-ITM4SCVC.js",
+        "/pisci-web/chunk-LXXEYMGV.js",
+        "/pisci-web/chunk-MOVUL5A6.js",
+        "/pisci-web/chunk-PM3QAI3C.js",
+        "/pisci-web/chunk-PPMD4UWD.js",
+        "/pisci-web/chunk-PSYSN2XC.js",
+        "/pisci-web/chunk-QMQTSFHS.js",
+        "/pisci-web/chunk-RUX2IC7L.js",
+        "/pisci-web/chunk-VSTFCWHZ.js",
+        "/pisci-web/chunk-XEVF3PQ4.js",
+        "/pisci-web/chunk-Y5MJWXHJ.js",
+        "/pisci-web/chunk-ZZGPOSBA.js",
+        "/pisci-web/favicon.ico",
+        "/pisci-web/index.html",
+        "/pisci-web/main-AWKKIW52.js",
+        "/pisci-web/manifest.webmanifest",
+        "/pisci-web/polyfills-B6TNHZQ6.js",
+        "/pisci-web/scripts-SQ7W6IC7.js",
+        "/pisci-web/styles-XINLMDLS.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/pisci-web/icons/icon-128x128.png",
+        "/pisci-web/icons/icon-144x144.png",
+        "/pisci-web/icons/icon-152x152.png",
+        "/pisci-web/icons/icon-192x192.png",
+        "/pisci-web/icons/icon-384x384.png",
+        "/pisci-web/icons/icon-512x512.png",
+        "/pisci-web/icons/icon-72x72.png",
+        "/pisci-web/icons/icon-96x96.png",
+        "/pisci-web/media/HendersonSans-Bold-CBDJL74T.ttf",
+        "/pisci-web/media/HendersonSans-Light-M4FDPKKB.ttf",
+        "/pisci-web/media/HendersonSans-Semibold-BMZ6RM3B.ttf"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/pisci-web/chunk-2447FUFB.js": "f353ed85bfc3860218a12f35826607f23eb689b4",
+    "/pisci-web/chunk-37YCEVLF.js": "839777e55b5a3116291a753732127a33bac368b6",
+    "/pisci-web/chunk-DL74YZTB.js": "b2e89c61e75e621c31721ce4e74ae8b1c9565118",
+    "/pisci-web/chunk-EBJ5BXEB.js": "1aab09d2b3828a0d3ef51283bfd35e3c52ba660a",
+    "/pisci-web/chunk-EQDQRRRY.js": "c40057a332d0341d595cc1d005fc2ab4f2573957",
+    "/pisci-web/chunk-FK6H3RFT.js": "3c538698719f1cf34410542b8c702bc484e025ee",
+    "/pisci-web/chunk-FL6FNIAD.js": "98680530f4de684e7ae3a17a2f1654a6bcab3d40",
+    "/pisci-web/chunk-FQFET22Z.js": "83b2ba2d2f087b8df21aff6b73efdd992d15037a",
+    "/pisci-web/chunk-GBA5LKQX.js": "ede3545e2f00c1db64de85518bf45200d4354aea",
+    "/pisci-web/chunk-HIN7CXQO.js": "5f25d9670e546625170da6680c108ebc6e92d8d4",
+    "/pisci-web/chunk-ITM4SCVC.js": "661c545bd32658a089c35c638754e0f1169ecc12",
+    "/pisci-web/chunk-LXXEYMGV.js": "de21cf5b044a25ad67cf54bcc102d5e8d11a2887",
+    "/pisci-web/chunk-MOVUL5A6.js": "f32b006325a36290bcd9fce03deb5da71a9badf1",
+    "/pisci-web/chunk-PM3QAI3C.js": "7ae6c621b9351db3f3bf1fc565b4e0b0196d48b0",
+    "/pisci-web/chunk-PPMD4UWD.js": "72d085a7ed590056da08889f5e63337335cc66ba",
+    "/pisci-web/chunk-PSYSN2XC.js": "a189639f48e9407c6c71c30f3c8d5cd4d4263d45",
+    "/pisci-web/chunk-QMQTSFHS.js": "ad051575e10f95651c6cd7774499491debd3c3c5",
+    "/pisci-web/chunk-RUX2IC7L.js": "76257448abbd5581cb87ec9bf3f78ee03823f4c0",
+    "/pisci-web/chunk-VSTFCWHZ.js": "7d132eedad5818890685b3e0c0c4b3580838556c",
+    "/pisci-web/chunk-XEVF3PQ4.js": "77a45e5d1105529050fca336f10eff11acac23ee",
+    "/pisci-web/chunk-Y5MJWXHJ.js": "f19a009ccca338d20e6f9fa76a30fa74b3e8f000",
+    "/pisci-web/chunk-ZZGPOSBA.js": "b1c6ea64cc53db896857368b762bfbc1966c0f8e",
+    "/pisci-web/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/pisci-web/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/pisci-web/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/pisci-web/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/pisci-web/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/pisci-web/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/pisci-web/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/pisci-web/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/pisci-web/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/pisci-web/index.html": "f6cf0724ecdb38bc2b0e1464398d7dd1e66ac657",
+    "/pisci-web/main-AWKKIW52.js": "f6ca851c88ee4af634fff5ac4ff4c70d331cedfc",
+    "/pisci-web/manifest.webmanifest": "b8ccbfc2e50fc3100abf3c6c9f6052e9f7a4cec3",
+    "/pisci-web/media/HendersonSans-Bold-CBDJL74T.ttf": "543f0c90df23672176ad7c3b3d2dc875e9b81127",
+    "/pisci-web/media/HendersonSans-Light-M4FDPKKB.ttf": "9363fee0032b00a1c18c3b1414d465dd5e4bb7fc",
+    "/pisci-web/media/HendersonSans-Semibold-BMZ6RM3B.ttf": "8f8e7d3f4484744f22fe74b60498c40d6a0b8c2c",
+    "/pisci-web/polyfills-B6TNHZQ6.js": "bf76ac291d7f51c1139b7edcf86b359a30c08c64",
+    "/pisci-web/scripts-SQ7W6IC7.js": "5119cd2cbdf65456a959d73a4eb77b48941820cc",
+    "/pisci-web/styles-XINLMDLS.css": "8d3cf42ef32b9e735986c28fe89c45d8bab0a17d"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
